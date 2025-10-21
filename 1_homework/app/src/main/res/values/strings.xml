@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1_homework</string>
+    <string name="name_label">Имя</string>
+    <string name="name_error">Имя не может быть пустым</string>
+    <string name="age_label">Возраст</string>
+    <string name="gender_label">Пол:</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="subscribe_news">Хочу получать новости</string>
+    <string name="submit_button">Отправить</string>
+    <string name="summary_name">Имя</string>
+    <string name="summary_age">Возраст</string>
+    <string name="summary_gender">Пол</string>
+    <string name="summary_subscription">Подписка</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+</resources>
