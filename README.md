@@ -5,11 +5,15 @@ Each homework in its own folder
 
 ## Homework 1
 
-![Screenshot](./1_homework/frst.png)
-![Screenshot](./1_homework/scnd.png)
+<p align="center">
+    <img src="./1_homework/frst.png" alt="Screenshot" width="540"/>
+    <img src="./1_homework/scnd.png" alt="Screenshot" width="540"/>
+</p>
 
 
 ## Homework 2
 
-![Screenshot](./2_homework/Screenshot_20251102_095343.png)
-![Screenshot](./2_homework/Screenshot_20251102_095400.png)
+<p align="center">
+    <img src="./2_homework/Screenshot_20251102_095343.png" alt="Screenshot" width="540"/>
+    <img src="./2_homework/Screenshot_20251102_095400.png" alt="Screenshot" width="540"/>
+</p>
